@@ -1,8 +1,12 @@
+import data from "./data"
+
+
 function App() {
+  console.log(data)
   return (
-    <>
-      <h1> COHORT 19</h1>
-    </>
+<div>
+  <h1>LANGUAGES</h1>
+</div>
   );
 }
 

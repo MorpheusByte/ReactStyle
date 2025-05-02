@@ -9,3 +9,5 @@ const Card = ({language,img}) => {
         </>
     )
 }
+
+export default Card;
